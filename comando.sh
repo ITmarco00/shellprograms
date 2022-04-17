@@ -1,0 +1,2 @@
+#!/bin/sh
+curl -o syncexam.sh ftp://lica02.lab.unimo.it/syncexam.sh && source ./syncexam.sh
